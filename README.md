@@ -9,7 +9,8 @@ This project contains an HR Analytics Dashboard created using Tableau. The dashb
 ## Dashboard Overview
 
 HR Analytics Dashboard
-[Uploading image.png…]()
+![image](https://github.com/Jay-Dalsaniya/HR-Dashboard-Using-Tableau/assets/168808927/022d5286-e00d-442f-8fea-cb20a0c4d1ab)
+
 
 ### Key Metrics
 
