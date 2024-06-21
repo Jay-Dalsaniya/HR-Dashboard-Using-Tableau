@@ -8,7 +8,8 @@ This project contains an HR Analytics Dashboard created using Tableau. The dashb
 
 ## Dashboard Overview
 
-![HR Analytics Dashboard]![Uploading image.png…]()
+HR Analytics Dashboard
+[Uploading image.png…]()
 
 ### Key Metrics
 
